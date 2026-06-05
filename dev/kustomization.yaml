@@ -8,7 +8,7 @@ images:
   newTag: 4.0.1
 - name: spring-petclinic
   newName: ghcr.io/gromhit/spring-petclinic
-  newTag: 3e5d974356fe8457f829563e26d9f6fb27a1ae0f
+  newTag: 7a571cd0ef6c7f07ebc178b5d35327e03d000fba
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
